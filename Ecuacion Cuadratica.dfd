@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+110
+'Señor usuario este programa esta diseñado para resvolver una ecuación cuadratica mediante la formula general'
+4
+1
+59
+'Escirbe por favor los coeficientes A,B y C de la ecuación'
+5
+1
+5
+A,B,C
+6
+2
+2
+X1
+26
+(-B+SQRT(B^2-4*A*C))/(2*A)
+2
+X2
+26
+(-B-SQRT(B^2-4*A*C))/(2*A)
+4
+1
+70
+'Señor usuario la solución X1 es igual a  ',X1 ,' y X2 es igual a ',X2
+1
