@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+Area
+1
+0
+1
+b
+1
+0
+1
+h
+1
+0
+4
+1
+45
+'Señor usuario digite la base del rectangulo'
+5
+1
+1
+b
+4
+1
+53
+'Señor usuario ahora digite la altura del rectangulo'
+5
+1
+1
+h
+6
+1
+4
+Area
+3
+b*h
+4
+1
+35
+'El area de su rectangulo es ',Area
+1
